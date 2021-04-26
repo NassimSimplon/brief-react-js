@@ -1,0 +1,20 @@
+.titel{
+    font-size: 1.8428571429em;
+    letter-spacing: -.3px;
+    color: #00b39b;
+}
+.second-para{
+    color: #747474;
+    line-height: 1.7142857143;
+    font-size: .875em;
+    
+}
+.cardy-body{
+    display: flex;
+
+    flex-direction: row;
+    justify-content: space-between;
+}
+.fos{
+    margin-left: 6.5rem;
+}

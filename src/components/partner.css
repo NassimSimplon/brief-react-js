@@ -1,0 +1,19 @@
+.h1{
+    font-size: 1.625em;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    letter-spacing: -.3px;
+}
+
+.icons{
+    display: flex;
+    justify-content:space-around;
+    color: #747474;
+
+}
+.icon{
+    display: flex;
+    justify-content:space-around;
+    color: #747474;
+    text-align-last: justify;
+}

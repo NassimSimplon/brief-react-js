@@ -1,0 +1,12 @@
+.h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+    font-family: Arial,sans-serif;
+    letter-spacing: -.3px;
+}
+.para{
+    text-align: center;
+    line-height: 2;
+    color: #747474;
+      
+}

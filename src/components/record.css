@@ -1,0 +1,63 @@
+
+
+.tit{
+    font-size: 2.125rem;
+    color: #00b39b;
+    letter-spacing: -.3px;
+}
+
+
+.first-p{
+    color: #747474;
+
+}
+
+
+
+
+
+
+/*-------------------------------------card------------------------------------*/
+.section{
+    background-color: rgba(0, 179, 155, 0.185);
+    height: 38rem;
+
+    
+}
+
+.record-card{
+    display: flex;
+    justify-content:space-around}
+
+
+.cards-0{
+    width: 220px;height:55%;
+
+
+}
+.cards-1{
+    width: 220px;height:50%;
+
+}
+
+.cards-2{
+    width: 220px;height:43%;
+
+}
+
+.h8{
+    font-size: 1.625em;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    letter-spacing: -.3px;
+}
+
+.card-p{
+    text-align: center;
+    color: #747474;
+    font-size: .8125em;
+
+}
+
+
+
